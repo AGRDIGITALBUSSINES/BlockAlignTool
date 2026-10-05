@@ -1,0 +1,24 @@
+## Visual Studio / .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userprefs
+BlockAlignTool.local.props
+*.cache
+*.dll
+*.pdb
+
+## AutoCAD
+*.bak
+*.dwl
+*.dwl2
+*.sv$
+*.ac$
+*.err
+
+## Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
